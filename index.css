@@ -23,15 +23,11 @@
 
 }
 
-.icon_dim {
-    width: 250px;
-}
-
 .search-bar{
 
     text-align:center;
     margin-top: -2.3%;
-    background: rgba(255,255,255,0.2);
+    background: rgba(255,255,255,0.3);
     border-radius: 60px;
     padding: 10px 20px;
     width: 35%;
@@ -43,7 +39,7 @@
     border: 0;
     outline: none;
     padding: 4px -2px;
-    font-size: 20;
+    font-size: 20px;
     color: #cac7ff;
 
 
